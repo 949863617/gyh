@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 master
+=======
+dev
+>>>>>>> Stashed changes
